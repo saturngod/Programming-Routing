@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Programming</title>
+</head>
+<body>
+<outline text="Programming"><outline text="Basic"><outline text="Python"></outline>
+<outline text="C++"></outline>
+<outline text="Java"></outline>
+<outline text="Windows"><outline text=".NET"><outline text="C#"></outline>
+<outline text="VB.NET (http://VB.NET)"></outline>
+</outline>
+<outline text="Windows API"></outline>
+<outline text="IDE"><outline text="Visual Studio"></outline>
+</outline>
+</outline>
+<outline text="Mac"><outline text="Objective-C"></outline>
+<outline text="Swift"></outline>
+<outline text="IDE"><outline text="Xcode"></outline>
+</outline>
+</outline>
+<outline text="Linux"><outline text="QT"></outline>
+<outline text="GTK+"></outline>
+</outline>
+<outline text="Cross Platform"><outline text="Java"></outline>
+<outline text="Python"></outline>
+<outline text="Go"></outline>
+<outline text="Ruby"></outline>
+<outline text="Node.js"></outline>
+<outline text="QT"></outline>
+<outline text="C++"></outline>
+<outline text="Scala"></outline>
+<outline text="More…"></outline>
+</outline>
+<outline text="Knowledge"><outline text="UML"></outline>
+<outline text="Flow chart"></outline>
+<outline text="Software Engineering"><outline text="Project Management"></outline>
+<outline text="Risk Management"></outline>
+<outline text="Quality Management"></outline>
+<outline text="Methodologies"><outline text="Agile"><outline text="Agile Process"><outline text="SCRUM"></outline>
+<outline text="Kanban"></outline>
+<outline text="DSDM"></outline>
+</outline>
+</outline>
+<outline text="Waterfall"></outline>
+<outline text="Cleanroom"></outline>
+<outline text="More…"></outline>
+</outline>
+<outline text="More…"></outline>
+</outline>
+<outline text="OOP"></outline>
+<outline text="Functional"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Mobile"><outline text="Cross platform"><outline text="Ruby"><outline text="Rhodes"></outline>
+</outline>
+<outline text="Lua"><outline text="Kony"></outline>
+</outline>
+<outline text="C#"><outline text="Xamarin"></outline>
+</outline>
+<outline text="Javascript"><outline text="Titanium"></outline>
+<outline text="Reactive JS"></outline>
+</outline>
+<outline text="HTML/Javascript"><outline text="CocoonJS"></outline>
+<outline text="cordova"></outline>
+<outline text="Phonegap"></outline>
+</outline>
+</outline>
+<outline text="Blackberry"><outline text="UI/UX"></outline>
+<outline text="Java"></outline>
+</outline>
+<outline text="Android"><outline text="Package Manager"><outline text="Gradle"></outline>
+</outline>
+<outline text="IDE"><outline text="Android Studio"></outline>
+<outline text="IntelliJ IDEA"></outline>
+<outline text="Eclipse"></outline>
+</outline>
+<outline text="UI/UX"></outline>
+<outline text="Java"></outline>
+</outline>
+<outline text="iOS"><outline text="Package Manager"><outline text="Carthage"></outline>
+<outline text="cocoapods"></outline>
+</outline>
+<outline text="IDE"></outline>
+<outline text="UI/UX"></outline>
+<outline text="Swift"></outline>
+<outline text="Objective-C"></outline>
+</outline>
+<outline text="Windows Phone"><outline text="IDE"><outline text="Visual Studio"></outline>
+</outline>
+<outline text="UI/UX"></outline>
+<outline text=".NET"><outline text="HTML + JS"></outline>
+<outline text="VB.NET (http://VB.NET)"></outline>
+<outline text="C#"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Web"><outline text="Basic"><outline text="HTML"><outline text="Javascript"><outline text="Backend"><outline text="PHP"><outline text="Framework"><outline text="Larval"></outline>
+<outline text="Symfony"></outline>
+<outline text="Cake"></outline>
+<outline text="CodeIgniter"></outline>
+<outline text="More …"></outline>
+</outline>
+<outline text="Open Source"><outline text="CMS &amp; Blog"><outline text="Wordpress"><outline text="Theme"></outline>
+<outline text="Plugin"></outline>
+</outline>
+<outline text="Joomla"><outline text="Theme"></outline>
+<outline text="Add on"></outline>
+</outline>
+<outline text="Drupal"><outline text="Module"></outline>
+<outline text="Theme"></outline>
+</outline>
+<outline text="More …"></outline>
+</outline>
+<outline text="Forum"><outline text="Vanilla"></outline>
+<outline text="esoTalk"></outline>
+<outline text="Phpbb"></outline>
+<outline text="More …"></outline>
+</outline>
+<outline text="More …"></outline>
+</outline>
+<outline text="Web server"><outline text="Apache"></outline>
+<outline text="Nginx"></outline>
+<outline text="IIS"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="Postgresql"></outline>
+<outline text="More..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="Redis"></outline>
+<outline text="More …"></outline>
+</outline>
+</outline>
+<outline text="Package Manager"><outline text="Composer"></outline>
+</outline>
+</outline>
+<outline text="ASP.NET (http://ASP.NET)"><outline text="Framework"><outline text="MVC"></outline>
+</outline>
+<outline text="Web Server"><outline text="IIS"></outline>
+</outline>
+<outline text="Database"><outline text="MS SQL"></outline>
+</outline>
+<outline text="Language"><outline text="C#"></outline>
+<outline text="VB.NET (http://VB.NET)"></outline>
+</outline>
+<outline text="IDE"><outline text="Visual Studio"></outline>
+</outline>
+<outline text="Package Manager"><outline text="nuget"></outline>
+</outline>
+</outline>
+<outline text="Node.js"><outline text="Opensource"><outline text="Blog"><outline text="Ghost"></outline>
+<outline text="Wintersmith"></outline>
+<outline text="More..."></outline>
+</outline>
+<outline text="Forum"><outline text="NodeBB"></outline>
+<outline text="More..."></outline>
+</outline>
+</outline>
+<outline text="Framework"><outline text="MVC"><outline text="Sinatra-like"><outline text="Express.js"></outline>
+<outline text="hapi"></outline>
+<outline text="flatiron"></outline>
+<outline text="MEAN.js"></outline>
+<outline text="locomotive"></outline>
+<outline text="total.js"></outline>
+<outline text="koa.js"></outline>
+<outline text="TWEE.IO"></outline>
+<outline text="diet.js"></outline>
+</outline>
+<outline text="Rails-like"><outline text="CompoundJS"></outline>
+<outline text="geddy"></outline>
+<outline text="Sails.js"></outline>
+<outline text="RhapsodyJS"></outline>
+</outline>
+</outline>
+<outline text="Full stack"><outline text="Derby"></outline>
+<outline text="Meteor"></outline>
+<outline text="MEAN.io"></outline>
+<outline text="Mojito"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="REST API"><outline text="actionHero.js"></outline>
+<outline text="Frisby"></outline>
+<outline text="restling"></outline>
+<outline text="restmvc"></outline>
+<outline text="percolator"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Package Manager"><outline text="NPM"></outline>
+</outline>
+<outline text="Webserver"><outline text="Nginx (proxy)"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="sqlite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="Mongodb"></outline>
+<outline text="RethinkDB"></outline>
+<outline text="Redis"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Language"><outline text="JavaScript"></outline>
+<outline text="Coffeescript"></outline>
+</outline>
+<outline text="Build Tool"><outline text="Grunt"></outline>
+<outline text="Gulp"></outline>
+</outline>
+</outline>
+<outline text="Ruby"><outline text="Opensource"><outline text="Forum"><outline text="Discourse"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Blog"><outline text="Jekyll"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Git Hosting"><outline text="Gitlab"></outline>
+</outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Package Manager"><outline text="gem"></outline>
+<outline text="bundler"></outline>
+</outline>
+<outline text="Framework"><outline text="Ruby on Rail"></outline>
+<outline text="Sinatra"></outline>
+</outline>
+<outline text="Build Tool"><outline text="Guard"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Server"><outline text="Unicorn"></outline>
+<outline text="Puma"></outline>
+<outline text="Torquebox"></outline>
+<outline text="Raptor"></outline>
+</outline>
+</outline>
+<outline text="Java"><outline text="Webserver"><outline text="Apache"></outline>
+<outline text="JBoss"></outline>
+<outline text="Tomcat"></outline>
+<outline text="Glassfish"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="JSP"></outline>
+<outline text="JSF"></outline>
+<outline text="Framework"><outline text="Spring"></outline>
+<outline text="Struts"></outline>
+<outline text="Play"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="IDE"><outline text="Eclipse"></outline>
+<outline text="IntelliJ IDEA "></outline>
+<outline text="more…"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="Oracle"></outline>
+<outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Package Manager"><outline text="Gradle"></outline>
+<outline text="Maven"></outline>
+</outline>
+<outline text="Build Tool"><outline text="Ant"></outline>
+</outline>
+</outline>
+<outline text="Go"><outline text="Opensource"><outline text="Git Hosting"><outline text="Gogs"></outline>
+</outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Framework"><outline text="Revel"></outline>
+<outline text="Martini"></outline>
+<outline text="beego"></outline>
+<outline text="Gorilla"></outline>
+</outline>
+<outline text="Webserver"><outline text="Nginx (Proxy)"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Package Manager"><outline text="go install (Build-in)"></outline>
+<outline text="gom"></outline>
+</outline>
+</outline>
+<outline text="Python"><outline text="Framework"><outline text="Full-stack"><outline text="Django"></outline>
+<outline text="Pylon"></outline>
+<outline text="web2py"></outline>
+<outline text="Zope"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Basic"><outline text="Pyramid"></outline>
+<outline text="Bottle"></outline>
+<outline text="Flask"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Webserver"><outline text="Nginx (Proxy)"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+<outline text="Package Manager"><outline text="Pip"></outline>
+<outline text="easy_install"></outline>
+</outline>
+</outline>
+<outline text="Scala"><outline text="Framework"><outline text="Play"></outline>
+<outline text="Scalatra"></outline>
+</outline>
+<outline text="Database"><outline text="SQL"><outline text="MySQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="NoSQL"><outline text="MongoDB"></outline>
+<outline text="CouchDB"></outline>
+<outline text="more..."></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Other Knowledge"><outline text="FTP/SFTP"></outline>
+<outline text="SSH"></outline>
+<outline text="Version Control"><outline text="Git"></outline>
+<outline text="SVN"></outline>
+<outline text="Hg"></outline>
+<outline text="CVS"></outline>
+</outline>
+<outline text="RestFul"></outline>
+<outline text="JSON"></outline>
+<outline text="XML"></outline>
+<outline text="YAML"></outline>
+</outline>
+</outline>
+<outline text="Design"><outline text="Photoshop"></outline>
+<outline text="Sketch (Mac)"></outline>
+<outline text="Illustrator"></outline>
+<outline text="UI/UX"><outline text="Desktop"></outline>
+<outline text="Web"></outline>
+<outline text="Mobile"><outline text="iOS"></outline>
+<outline text="Android"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Frontend"><outline text="jQuery"></outline>
+<outline text="Javascript Framework"><outline text="Angular"></outline>
+<outline text="React.JS"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Dev Tools"><outline text="Chrome"></outline>
+<outline text="Firefox"></outline>
+<outline text="Safari"></outline>
+</outline>
+<outline text="Mobile"><outline text="ionic"></outline>
+<outline text="Framework7"></outline>
+<outline text="Onsenui"></outline>
+<outline text="more..."></outline>
+</outline>
+<outline text="Build Tool"><outline text="Grunt"></outline>
+<outline text="Gulp"></outline>
+</outline>
+<outline text="Package Manager"><outline text="Bower"></outline>
+<outline text="Yeoman"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="CSS"><outline text="Bootstrap"></outline>
+<outline text="Grid Layout"></outline>
+<outline text="Responsive Design"></outline>
+<outline text="Other"><outline text="LESS"></outline>
+<outline text="SASS"></outline>
+<outline text="Stylus"></outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>
